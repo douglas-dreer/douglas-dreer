@@ -34,3 +34,7 @@
   <img alt="Kotlin" align="center" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
   
 </div>
+
+![Cursos da Alura Conclídos][(https://github-readme-stats.vercel.app/api?username=douglas-dreer&show_icons=true&theme=dracula](https://cursos.alura.com.br/user/douglasdreer)https://cursos.alura.com.br/user/douglasdreer) 
+
+
