@@ -18,7 +18,14 @@
   <h4>BackEnd</h4>
   <img alt="Java" align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img alt="Sprinboot" align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  
   <h4>Banco de Dados</h4>
+  <img alt="SQL Server" align="center" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+  <img alt="MySQL" align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="PostGreSQL" align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="Oracle" align="center" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
+  <img alt="Redis" align="center" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
+
   
   <h4>Estudando</h4> 
   <img alt="NextJS" align="center" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -31,10 +38,13 @@
   <img alt="Apache Kafka" align="center" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/>
   <img alt="RabbitMQ" align="center" src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
  
-  <img alt="Kotlin" align="center" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
-  
+  <img alt="Kotlin" align="center" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>  
 </div>
 
-![Cursos da Alura Conclídos][(https://github-readme-stats.vercel.app/api?username=douglas-dreer&show_icons=true&theme=dracula](https://cursos.alura.com.br/user/douglasdreer)https://cursos.alura.com.br/user/douglasdreer) 
+<div style="display:block">
+  <a href="https://cursos.alura.com.br/user/douglasdreer)https://cursos.alura.com.br/user/douglasdreer" alt="Curso Alura Concluyídos">
+    Profile Alura Dev
+  <a/>
+</div>
 
 
